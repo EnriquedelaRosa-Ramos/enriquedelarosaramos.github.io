@@ -1,10 +1,12 @@
 ---
-layout: homes
-title: "Welcome"
+layout: home
+title: "Home"
 ---
 
-# Hi, I'm Enrique de la Rosa Ramos
+## About Me
 
-**Development Economics and Economic History | Field of Study ecib**
+Brief introduction here...
 
-[About Me](/about) | [Projects](/projects) | [Contact](/contact)
+### Contact
+- Email: your@email.com
+- GitHub: [yourusername](https://github.com/yourusername)
