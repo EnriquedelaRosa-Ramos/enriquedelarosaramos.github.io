@@ -1,3 +1,27 @@
-title: "Enrique de la Rosa-Ramos"
-description: "Personal website"
-theme: minima
+theme: jekyll-theme-minimal
+minimal_mistakes_skin: "contrast"
+title: Enrique de la Rosa-Ramos
+description: 
+markdown: kramdown
+plugins:
+  - jekyll-multiple-languages-plugin
+  - jemoji
+show_downloads: false
+github:
+  is_project_page: true
+
+languages: 
+  - en
+  - es
+default_lang: en
+
+# Definición de navegación (sin duplicación)
+nav:
+  - title: "About"
+    url: "/about/"
+  - title: "Research"
+    url: "/research/"
+  - title: "Teaching"
+    url: "/teaching/"
+  - title: "Photography"
+    url: "/photo/"
