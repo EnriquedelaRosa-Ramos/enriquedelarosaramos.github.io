@@ -3,8 +3,8 @@ layout: homes
 title: "Welcome"
 ---
 
-# Hi, I'm Your Names
+# Hi, I'm Enrique de la Rosa Ramos
 
-**Researcher | Field of Study ecib**
+**Development Economics and Economic History | Field of Study ecib**
 
 [About Me](/about) | [Projects](/projects) | [Contact](/contact)
