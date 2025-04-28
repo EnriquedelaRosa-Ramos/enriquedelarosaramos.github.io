@@ -4,22 +4,12 @@ layout: template
 filename: index
 order: 0
 ---  
+I am a Ph.D. candidate in Development Economics and Economic History at [King's College London](https://www.kcl.ac.uk/){:target="_blank"}, with my research centered on the long-term economic disparities within labour markets. Specifically, I explore central aspects such as the gender wage gap, wage premium, and the evolution of real wages, covering the historical continuum from 1870 to the present. Additionally, I investigate specific historical episodes that have significantly influenced contemporary economic outcomes, contributing insights to ongoing debates in economics. An integral aspect of my research involves the digitization of previously undiscovered historical material.
 
-I am a PhD candidate in Development Economics at [King's College London](https://www.parisscmics.eu/en/){:target="_blank"} and [EHESS](https://www.ehess.fr/fr){:target="_blank"}. My doctoral research is supervised by [Suanna Oh](https://www.soh.com/){:target="_blank"} and [Thierry Verdier](https://www.parisschoolofeconomics.ierry/){:target="_blank"}, with [Ekaterina Zhuravskaya](http://www.parisscconomics.com/zhuravskaya-ekaterina/){:target="_blank"} serving on my thesis committee.
-
-I previously completed my BA and MSc at [CIDE](https://www.cide.ee/){:target="_blank"} in Mexico.
-
-My primary field is the political economy of development. My doctoral research investigates how historical legacies, institutional arrangements, and cultural identities shape persistent inequalities across space and social groups. 
-<!--- Drawing on insights from historical and cultural economics and employing spatial methods, I aim to identify the structural forces underlying these disparities and contribute to strategies that promote inclusive development. --->
-
-My current projects explore:
-
-1. The long-term effects of historical segregation on urban spatial equilibrium and human capital formation, with a particular emphasis on neighborhood identity.
-2. The intergenerational and economic consequences of color-based discrimination, focusing on how it shapes opportunities and reinforces inequality.
-3. The role of worker-owned and socially embedded firms in fostering local economic development, especially in underserved communities.
+I previously completed my BA at [UDLAP](https://www.udlap.mx/web/){:target="_blank"}- and MSc at [Tulane University](https://tulane.edu/){:target="_blank"}.
 
 In addition, I study the political economy of populism, analyzing how populist leaders’ policy choices and public discourse affect economic outcomes, social welfare, and partisan dynamics.
 
-### [CV](https://github.com/woomora/Woo-Mora-CV-pdf/blob/main/Woo-Mora%20CV.pdf){:target="_blank"}
+### [CV](https://github.com/woomora/Woo-Mora-CV-pdf/blob/main/Woo-MCV.pdf){:target="_blank"}
 
 [Cambiar a Español](/es/)
