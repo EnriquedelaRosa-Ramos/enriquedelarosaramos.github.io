@@ -8,7 +8,6 @@ I am a Ph.D. candidate in Development Economics and Economic History at [King's 
 
 I previously completed my BA at [UDLAP](https://www.udlap.mx/web/){:target="_blank"}- and MSc at [Tulane University](https://tulane.edu/){:target="_blank"}.
 
-In addition, I study the political economy of populism, analyzing how populist leaders’ policy choices and public discourse affect economic outcomes, social welfare, and partisan dynamics.
 
 ### [CV](https://github.com/woomora/Woo-Mora-CV-pdf/blob/main/Woo-MCV.pdf){:target="_blank"}
 
