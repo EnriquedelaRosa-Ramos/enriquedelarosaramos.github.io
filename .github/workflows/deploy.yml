@@ -1,1 +1,28 @@
+name: Build and Deploy Jekyll Site
 
+# ↓ REQUIRED: This defines when the workflow runs
+on:
+  push:
+    branches: [ "main" ]  # Runs on pushes to main branch
+  pull_request:           # Optional: Runs on PRs too
+    branches: [ "main" ]
+
+# ↓ Job that builds and deploys your site
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest  # GitHub's Linux environment
+    
+    steps:
+      # 1. Checkout your repository
+      - uses: actions/checkout@v4
+      
+      # 2. Build with Jekyll
+      - name: Build with Jekyll
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./      # Where your Jekyll files are
+          destination: ./_site  # Where to put built files
+      
+      # 3. Deploy to GitHub Pages
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v3
